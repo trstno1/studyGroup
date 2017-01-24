@@ -1,6 +1,7 @@
-- name: Bill Mills
-  affiliation: TRIUMF
-  github: BillMills
+- name: Marcos Vital
+  affiliation: UFAL
+  github: marcosvital
   interests:
-    - Programming
+    - R
     - Open Science
+    - Bioestatística
