@@ -1,6 +1,6 @@
 ---
 title: Primeiro encontro do grupo
-text: Traçando objetivos e metas
+text: Traçando objetivos e metas (e aprendendo um pouquinho de GitHub)
 location: LEQ - UFAL, no ICBS
 link: https://github.com/marcosvital/studyGroup/issues/1
 date: 2017-02-09
