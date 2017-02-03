@@ -1,0 +1,10 @@
+---
+title: Primeiro encontro do grupo
+text: Traçando objetivos e metas
+location: LEQ - UFAL, no ICBS
+link: https://github.com/marcosvital/studyGroup/issues/1
+date: 2017-02-09
+startTime: '14:00'
+endTime: '17:00'
+
+---
