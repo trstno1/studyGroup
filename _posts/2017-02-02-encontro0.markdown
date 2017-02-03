@@ -1,0 +1,9 @@
+---
+title: Encontro "zero"
+text: Reunião com alunos do LEQ, para planejar o lançamento do curso
+location: LEQ - UFAL (no ICBS)
+link: https://github.com/marcosvital/studyGroup/issues/2
+date: 2017-02-02
+startTime: '14:00'
+endTime: '17:00'
+---
