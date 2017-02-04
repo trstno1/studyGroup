@@ -20,7 +20,7 @@ language: pt
 
 titleBackground: "https://s3-us-west-2.amazonaws.com/webmaker-kits/learning%402x.jpg"
 headlineSmall: "Sejam bem vindos!"
-headlineMain: "Um grupo de estudos em construção"
+headlineMain: "Junte-se a nós, e vamos aprender mais sobre R, Programação e Open Science"
 
 # Setup Google Calendar
 # Usage:
